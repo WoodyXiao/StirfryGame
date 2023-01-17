@@ -1,9 +1,8 @@
-# StirfryGame (Final Project)
+# StirfryGame (IAT 265 Final Project)
 **Language:** Java </br>
 **IDE:** eclipse </br>
-**Description:**
-Final project for **IAT 265** in **Spring 2021**. </br>
-This is a simple game that simulating of the process of making a stir fry by using **Java**. </br>
+**Description:** </br>
+interactive multimedia simulation that demonstrates a process of making stir fry, with the feature of user interactivity by using Java, JPanel </br>
 
 **Demo:**</br>
 <img width="831" alt="Screen Shot 2023-01-16 at 1 06 54 PM" src="https://user-images.githubusercontent.com/85204575/212765901-afb94653-12fc-4769-87d5-25df31a69c02.png"> </br>
